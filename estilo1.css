@@ -1,0 +1,45 @@
+*
+{
+	margin:10px;
+	padding:10PX;
+	
+}
+body 
+{
+	background-color:yellow;
+	color:blue;
+	font-family:verdana;
+	
+}
+header 
+{
+	height:100px;
+	background-color:red;
+}
+nav
+{
+	height:50px;
+	background-color:green;
+}
+section 
+{
+    background-color:#00cc00;
+    height:300px;
+	width:65%;
+	float:left;
+}
+aside
+{
+	background-color:pink;
+	height:300px;
+	width:20%;
+	float:right;
+}
+footer
+{
+    background-color:FF00FF;
+	height:450px;
+	float:bottom;
+	
+	
+}
